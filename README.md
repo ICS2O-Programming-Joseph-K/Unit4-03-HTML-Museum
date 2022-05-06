@@ -1,1 +1,1 @@
-[![GitHub's Super Linter](https://github.com/ICS2O-Programming-Joseph-K/Unit4-03-HTML-Museum/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS2O-Programming-Joseph-K/Unit4-03-HTML-Museum/actions)
+[![GitHub's Super Linter](https://github.com/ICS2O-Programming-Joseph-K/Unit4-04-HTML-Museum/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS2O-Programming-Joseph-K/Unit4-04-HTML-Museum/actions)
